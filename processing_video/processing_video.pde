@@ -1,7 +1,7 @@
 //ejemplo arduino -processing 
-//desarrollado para MAKE IT YOURSELF
+//desarrollado para MAKE IT YOURSELF por Juchani
 //EL DOMINIO DE  ESTE CODIGO ES PUBLICO
-//https://www.youtube.com/channel/UCHg3JIxqWzUwOqWyEFcOVcA
+// mas informacion en https://www.youtube.com/c/Juchani
 import processing.video.*;
 import processing.serial.*;
 

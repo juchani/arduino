@@ -1,6 +1,7 @@
-//ejemplo arduino -processing 
-//desarrollado para MAKE IT YOURSELF
+//ejemplo arduino -processing //ejemplo arduino -processing 
+//desarrollado para MAKE IT YOURSELF por Juchani
 //EL DOMINIO DE  ESTE CODIGO ES PUBLICO
+// mas informacion en https://www.youtube.com/c/Juchani
 import processing.serial.*;
 Serial puerto;
 int n=1; 
